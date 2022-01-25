@@ -1,3 +1,12 @@
+# Products API with NestJS
+
+This project is just a basic API to learn the fundamentals of NestJS.
+I've implemented a simple product market in which you can create, manage, and delete products from it.
+
+Thanks to the (Academind Course)[https://www.youtube.com/watch?v=F_oOtaxb0L8]
+
+---
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
