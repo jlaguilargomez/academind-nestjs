@@ -3,6 +3,8 @@
 This project is just a basic API to learn the fundamentals of NestJS.
 I've implemented a simple product market in which you can create, manage, and delete products from it.
 
+Take a look at the notes in the code.
+
 Thanks to the (Academind Course)[https://www.youtube.com/watch?v=F_oOtaxb0L8]
 
 ---
